@@ -45,7 +45,7 @@ DONE! 2 PDF(s) processed, 0 failed.
 Results in: ./compressed_gray_normal
 `````
 
-Pointing at both absolute and relative paths work.
+Pointing at both absolute and relative paths works.
 `````
 compressPDFs /absolute/path/to/pdfs/
 compressPDFs ./relative/path/
