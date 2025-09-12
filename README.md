@@ -105,4 +105,6 @@ compressPDF ./folder/MySinglePDF.pdf --mode gray --compression slight
 `````
 
 # License:
-full open source. You can buy me a beer. But besides that, enjoy freely. Copy, republish, use commercially,.. i don't care.
+fully open source. 
+If you feel like you have to, you can buy me a ~beer~ [coffee](https://buymeacoffee.com/cleanbites).
+But besides that, enjoy freely. Copy, republish, use commercially,.. i don't care.
