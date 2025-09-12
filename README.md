@@ -1,7 +1,7 @@
 # compressPDFs
 A batch processor for squashing the file sizes of all PDFs in a given folder. Doesn't touch originals, outputs in subfolders.
 
-No need to send your files to a server on the internet. Keep your sensitive data private! This tool works local. 
+No need to send your files to a server on the internet just to compress. Keep your sensitive data private! This tool works local. 
 
 ## Setup
 ### 1 Get ghostScript 
