@@ -7,17 +7,21 @@ No need to send your files to a server on the internet just to compress. Keep yo
 ### 1 Get ghostScript 
 Make sure you have ghostscript on your machine  
 **mac OS**  
-`brew install ghostscript`
-
+````
+brew install ghostscript
+````
 **Debian linux and alike, as well as linux subsystem for Windows**  
-`sudo apt install ghostscript`
-
+````
+sudo apt install ghostscript
+````
 **fedora, redhead and alike linux**  
-`sudo dnf install ghostscript`
-
+````
+sudo dnf install ghostscript
+````
 ### 2 Clone this repo
-`git clone git@github.com:kaibrockelt/compressPDFs.git`
-
+````
+git clone git@github.com:kaibrockelt/compressPDFs.git
+````
 ### 3 Move to a PATH-accessible folder and make executable:
 Moving the file  
 ````
