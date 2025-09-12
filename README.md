@@ -16,7 +16,7 @@ Make sure you have ghostscript on your machine
 `sudo dnf install ghostscript`
 
 ### 2 Clone this repo
-`git clone git@github.com:kaibrockelt/CatalogColection.git`
+`git clone git@github.com:kaibrockelt/compressPDFs.git`
 
 ### 3 Move to a PATH-accessible folder and make executable:
 Moving the file  
