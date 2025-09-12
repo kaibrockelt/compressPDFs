@@ -103,3 +103,6 @@ I might drop a "twin" of it for singular PDF files that would work like so:
 `````
 compressPDF ./folder/MySinglePDF.pdf --mode gray --compression slight
 `````
+
+# License:
+full open source. You can buy me a beer. But besides that, enjoy freely. Copy, republish, use commercially,.. i don't care.
