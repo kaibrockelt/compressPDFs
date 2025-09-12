@@ -34,7 +34,7 @@ making it executable
 sudo chmod +x /usr/local/bin/compressPDFs`
 ````
 ## Usage
-to use it in default mode ("normal" compression, grayscale output), call compressPDFs passing a folder to look for PDFs
+to use it in default mode ("normal" compression, grayscale output), call compressPDFs passing a folder to look for PDFs  
 working in the current folder looks like this
 ````
 % compressPDFs .
