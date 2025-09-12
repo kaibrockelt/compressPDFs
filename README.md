@@ -60,10 +60,10 @@ All compressed pdfs will end up in a subfolder "compressed+mode+compression", li
 compressPDF has two built in parameters:
 - `--compression [brutal | aggressive | normal | slight | least]`  
   defines how far we go with compression. This will control the downsampling of imagedata
-  {TableGoesHere: compression mode | Image Resolution | JPEG Compression}
+
 - `--mode [color | gray | bw]`  
   changes the colorspace output, and thus can also affect the file size
-  {TableGoesHere: color mode | ColorSpace used | JPEG Compression}
+
 
   **you can use one or both of them them like so:**  
 `````
